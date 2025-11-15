@@ -6,13 +6,6 @@ Developed by **Wenjin Zhou** from Taiyuan University of Technology.
 
 ---
 
-## Live Demo
-
-You can access the live version of the simulator here:  
-**[https://jackachou.github.io/PID-Tuner-Simulator-v1.0/index_standalone.html](https://jackachou.github.io/PID-Tuner-Simulator-v1.0/index_standalone.html)**
-
-*(Note: This link is based on your GitHub username and repository name. Please verify it after deploying via GitHub Pages.)*
-
 ## Features
 
 - **Real-time Dynamic Simulation**: Simulate closed-loop PID control and visualize SP, PV, and OP curves dynamically.
