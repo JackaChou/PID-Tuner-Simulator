@@ -39,6 +39,6 @@ This tool is designed to be seamlessly integrated into digital learning environm
 
 ## License & Copyright
 
-&copy; 2023 Wenjin Zhou, Taiyuan University of Technology. All Rights Reserved.
+&copy; 2025 Wenjin Zhou, Wei Zhang, Taiyuan University of Technology. All Rights Reserved.
 
 This software is intended for educational and demonstrational purposes only. Commercial use is prohibited without permission.
